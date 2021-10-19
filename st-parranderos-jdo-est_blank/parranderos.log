@@ -1,0 +1,12 @@
+11:42:05,711 (AWT-EventQueue-0) INFO  [uniandes.isis2304.parranderos.negocio.Parranderos] - Limpiando la BD de Parranderos
+11:42:05,809 (AWT-EventQueue-0) INFO  [uniandes.isis2304.parranderos.persistencia.PersistenciaParranderos] - Borrada la base de datos
+11:42:05,810 (AWT-EventQueue-0) INFO  [uniandes.isis2304.parranderos.negocio.Parranderos] - Limpiando la BD de Parranderos: Listo!
+17:49:19,884 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazParranderosApp] - Se encontró un archivo de configuración válido: Interfaz
+17:49:19,884 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazParranderosApp] - Se aplica configuración indicada en el archivo de configuración
+17:49:19,896 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazParranderosApp] - Se encontró un archivo de configuración válido: Tablas BD
+08:56:33,492 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+08:56:33,493 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se aplica configuración indicada en el archivo de configuración
+08:56:33,508 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
+09:01:16,817 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se encontró un archivo de configuración válido: Interfaz
+09:01:16,818 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se aplica configuración indicada en el archivo de configuración
+09:01:16,834 (main) INFO  [uniandes.isis2304.parranderos.interfazApp.InterfazBancAndesApp] - Se encontró un archivo de configuración válido: Tablas BD
